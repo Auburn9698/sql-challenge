@@ -1,4 +1,4 @@
-# sql-challenge
+# sql-challenge  Employee Database: A Mystery in Two Parts
 
 This was the first assignment for SQL.  
 
