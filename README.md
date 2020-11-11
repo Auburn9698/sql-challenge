@@ -6,4 +6,4 @@ Quick DBD was used for the ERD diagram (http://www.quickdatabasediagrams.com) an
 
 Analysis questions are included in the query code.
 
-For the Jupyter notebook, "username" and "password should be replaced with your own.
+For the Jupyter notebook, "username" and "password" should be replaced with your own.
