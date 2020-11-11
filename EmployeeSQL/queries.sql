@@ -67,3 +67,8 @@ SELECT last_name, count(last_name) as "Count"
 FROM "employees"
 GROUP BY last_name
 ORDER BY "Count" DESC;
+
+-- Epilogue:
+SELECT first_name, last_name
+FROM employees
+WHERE emp_no = 499942;
